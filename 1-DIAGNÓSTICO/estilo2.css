@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(foto1.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+
+.cabecera{
+    width: auto;
+    height: 20px;
+    background: #000;
+    color: #fff;
+}
+
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+table{
+    width: 400px;
+}
+
+th, caption {
+    text-align: left;
+}
+
+table, th, td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 10px;
+}
